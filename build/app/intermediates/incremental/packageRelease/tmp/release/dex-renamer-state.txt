@@ -1,0 +1,4 @@
+#Mon Aug 05 23:08:03 UZT 2024
+base.0=D\:\\flutter projects\\Islamic_Dua_App-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

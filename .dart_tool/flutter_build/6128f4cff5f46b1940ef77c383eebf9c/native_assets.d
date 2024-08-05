@@ -1,0 +1,1 @@
+ D:\\flutter\ projects\\Islamic_Dua_App-main\\.dart_tool\\flutter_build\\6128f4cff5f46b1940ef77c383eebf9c\\native_assets.yaml: 
